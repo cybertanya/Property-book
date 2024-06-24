@@ -1,0 +1,31 @@
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: var(--bs-white) !important;
+  background-color: #155bd5 !important;
+  border-color: var(--bs-nav-tabs-link-active-border-color);
+}
+
+.nav-link {
+  display: block;
+  padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+  font-size: var(--bs-nav-link-font-size);
+  font-weight: var(--bs-nav-link-font-weight);
+  color: var(--bs-black);
+  text-decoration: none;
+  background: 0 0;
+  border: 0;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+  background-color: white;
+  border-radius: 5px;
+  padding: 6px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 10px;
+  height: 100%;
+  border-style: none !important;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: var(--bs-navbar-active-color) !important;
+  background-color: rgba(255,255,255,0.86) !important;
+}
+
