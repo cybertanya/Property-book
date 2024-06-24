@@ -16,3 +16,7 @@
    DB_USERNAME=your_database_username
    DB_PASSWORD=your_database_password
    DB_HOST=your_database_host
+
+3. composer install
+
+4. php artisan serve
