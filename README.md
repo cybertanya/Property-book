@@ -19,6 +19,14 @@
 
 3. composer install
 
-4. php artisan key:generate
+4. npm install
 
-5. php artisan serve
+5. npm run build
+
+6. php artisan key:generate
+
+7. php artisan serve
+
+Default Username : tanyaradzwakavumbura@gmail.com
+
+Default Password : password
