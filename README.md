@@ -19,4 +19,6 @@
 
 3. composer install
 
-4. php artisan serve
+4. php artisan key:generate
+
+5. php artisan serve
